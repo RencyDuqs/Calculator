@@ -48,8 +48,8 @@ button {
 
  
 }
-.button:hover {
-  background-color        : #21a1f1;
+button:hover {
+  background-color        : #022338;
 }
 
 .nameDisplay {
